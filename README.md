@@ -1,6 +1,9 @@
 # 💫 About Me:
-I am a Geospatial Developer with Mphil in Geographic Information Systems. 
+Hello! I’m Dominic Kudom, a dedicated Geographic Information Systems (GIS) professional and software developer with a passion for solving spatial problems and driving impactful projects. With a Master of Philosophy in GIS and a Bachelor’s degree in Development Planning from KNUST, I bring a unique combination of technical expertise and planning experience to the table.
 
+In addition to my technical skills, I have extensive experience in development planning, monitoring and evaluation, and community engagement. I thrive on collaboration, problem-solving, and continuous learning, always seeking innovative ways to create meaningful solutions.
+
+When I’m not coding or working on GIS projects, I enjoy reading, mentoring, and volunteering for initiatives that uplift communities.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Pln Dominic Kudom) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Pln Dominic Kudom) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Pln. Dominic Kudom, MGIP) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Dominic Kudom) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@plndominickudom) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@pendenator) 
